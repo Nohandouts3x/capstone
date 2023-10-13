@@ -1,0 +1,8 @@
+*** Please tell me who you are.
+
+Run (one at a time, put each line into terminal (file-terminal- new terminal))
+
+  git config --global user.email "boelulmel3x@gmail.com"
+  git config --global user.name "Nohandouts3x"
+
+to set your account's default identity.
